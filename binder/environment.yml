@@ -1,0 +1,26 @@
+name: hpp-part2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - bokeh
+  - dask
+  - dask-ml
+  - dask-xgboost
+  - jupyterlab
+  - nodejs
+  - tornado
+  - numba
+  - numpy
+  - pip
+  - pandas
+  - pyarrow
+  - python-graphviz
+  - seaborn
+  - scikit-learn
+  - matplotlib
+  - nbserverproxy
+  - h5py
+  - requests
+  - pytables
+  - dask_labextension  
